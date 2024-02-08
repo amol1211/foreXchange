@@ -1,6 +1,6 @@
 # foreXchange
 
-Web app providing real-time currency converter💱/exchange rate information to help users convert currencies from one value to another.
+A currency converter web app providing real-time 💱exchange rate information to help users convert currencies from one value to another.
 Note : Base and target currencies are set as USD($) and INR(₹), however user can always change them using drop down.
 
 Tech stack :
