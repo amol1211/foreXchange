@@ -24,7 +24,7 @@ Features :
 Requirements & Resources :
 
 Freecurrency API Key
-For more info visit : [FreeCurrencyAPI](https://freecurrencyapi.com/).
+For more info visit : [FreeCurrencyAPI](https://bit.ly/3OBGSHV).
 Register and get your own API Key
 
 Google Fonts
