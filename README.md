@@ -1,5 +1,7 @@
 A currency converter web app providing real-time 💱exchange rate information to help users convert currencies from one value to another.
 
+[Live Demo](https://forexchange.onrender.com).
+
 Important Note : Base and target currencies are set as USD($) and INR(₹), however user can always change them using drop down.
 
 Tech stack :
