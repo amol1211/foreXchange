@@ -4,7 +4,7 @@ Welcome to the **foreXhange Currency Converter** web app! This app provides real
 
 ## ![Screenshot of the foreXchange app](fx.png)
 
-## [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://forexchange.onrender.com)
+## [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://forexchange.onrender.com)
 
 ## ⚠️ Important Note
 
